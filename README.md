@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... React 
 - 🤔 I’m looking for help with ... React Hooks 
 - 💬 Ask me about ... ANYTHING !
-- 📫 How to reach me: ... [Portfolio](www.toryredner.dev)
+- 📫 How to reach me: ... [Portfolio](www.tredner.dev)
 - ⚡ Fun fact: ... I am a professionally trained chef turned developer. 
 

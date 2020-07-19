@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**tch180/tch180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... ANYTHING !
 - 📫 How to reach me: ... [webiste](www.toryredner.dev)
 - ⚡ Fun fact: ... I am a professionally trained chef turned developer. 
--->
+

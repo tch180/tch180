@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... React
 - 🌱 I’m currently learning ... React Hooks and all the ins and outs 
 - 👯 I’m looking to collaborate on ... React 

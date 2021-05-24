@@ -10,3 +10,6 @@
 - 📫 How to reach me: ... [Portfolio](http://www.tredner.dev)
 - ⚡ Fun fact: ... I am a professionally trained chef turned developer. 
 
+- Current Favorite Project
+  - Foster Connect
+

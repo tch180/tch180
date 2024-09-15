@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ...NEXT.JS
-- 🌱 I’m currently learning ... NEXT.JS 
+- 🔭 I’m currently working on ...OneStory.one
+- 🌱 I’m currently learning ... Security and Authentication
 - 👯 I’m looking to collaborate on ... React 
 - 💬 Ask me about ... ANYTHING !
 - 📫 How to reach me: ... [Portfolio](http://www.tredner.dev)

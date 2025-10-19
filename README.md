@@ -41,14 +41,8 @@ I'm a passionate developer who traded in chef knives for code editors. I bring t
 ### [OneStory](https://onestory.one)
 *Current favorite project - A platform for meaningful storytelling*
 
-### [FosterConnect](https://github.com/tch180/fosterConnect)
-*Connecting foster families and resources*
-
-### [Contact Keeper](https://github.com/tch180/contactKeeper)
-*Full-stack contact management application with authentication*
-
 ### [PiBackupInstall](https://github.com/tch180/PiBackupInstall)
-*Automated backup solution for Raspberry Pi systems*
+*Automated backup solution for 3d printers using pi as the host*
 
 ---
 

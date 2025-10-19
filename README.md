@@ -1,15 +1,78 @@
-### Hi there 👋
+# Hi, I'm Thomas Redner 👋
 
+### Full-Stack Developer | Chef Turned Coder | Building Meaningful Web Experiences
 
+I'm a passionate developer who traded in chef knives for code editors. I bring the same attention to detail, creativity, and precision from the culinary world into crafting clean, functional web applications.
 
-- 🔭 I’m currently working on ...OneStory.one
-- 🌱 I’m currently learning ... Security and Authentication
-- 👯 I’m looking to collaborate on ... React 
-- 💬 Ask me about ... ANYTHING !
-- 📫 How to reach me: ... [Portfolio](http://www.tredner.dev)
-- ⚡ Fun fact: ... I am a professionally trained chef turned developer. 
+---
 
-- Current Favorite Project
-  - OneStory
+## 🚀 What I'm Up To
 
+- 🔨 **Currently Building:** [OneStory.one](https://onestory.one) - My flagship project
+- 📚 **Learning:** Security & Authentication best practices
+- 🤝 **Open to Collaborate:** React projects and full-stack applications
+- 💼 **Portfolio:** [tredner.dev](https://tredner.dev)
 
+---
+
+## 💻 Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Other:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### [OneStory](https://onestory.one)
+*Current favorite project - A platform for meaningful storytelling*
+
+### [FosterConnect](https://github.com/tch180/fosterConnect)
+*Connecting foster families and resources*
+
+### [Contact Keeper](https://github.com/tch180/contactKeeper)
+*Full-stack contact management application with authentication*
+
+### [PiBackupInstall](https://github.com/tch180/PiBackupInstall)
+*Automated backup solution for Raspberry Pi systems*
+
+---
+
+## 🎯 A Bit About Me
+
+🍳 **Former Professional Chef** → Now I cook up code instead of cuisine  
+💡 I believe great software, like great food, requires the right ingredients, technique, and passion  
+🔐 Currently diving deep into security and authentication  
+🌱 Always learning, always building
+
+---
+
+## 📫 Let's Connect
+
+- 💼 Portfolio: [tredner.dev](https://tredner.dev)
+- 💬 Ask me about: Web development, React, MERN stack, or my journey from culinary arts to coding
+- 🤝 Open to collaboration on interesting React and full-stack projects
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://gstats.vercel.app/api?username=tch180)
+
+---
+
+*"From chef's table to dev desk - bringing creativity and precision to every line of code."*

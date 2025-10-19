@@ -1,4 +1,4 @@
-# Hi, I'm Thomas Redner 👋
+# Hi, I'm Tory Redner 👋
 
 ### Full-Stack Developer | Chef Turned Coder | Building Meaningful Web Experiences
 
